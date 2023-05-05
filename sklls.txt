@@ -1,0 +1,7 @@
+terminal
+sql
+
+git
+postman
+client-server
+mobile testing
